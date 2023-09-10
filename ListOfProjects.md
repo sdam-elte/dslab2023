@@ -2,25 +2,25 @@
 
 * 01 - **UMAP**
   * Consultant: István Csabai
-  * Student:  Bence Bakó
+  * Student:  
 * 02 - **Photometric redshift estimation**
   * Consultant: István Csabai
-  * Student: Mirkó Mocskonyi
+  * Student: 
 * 03 - **Lightning Hotspots on Earth**
   * Consultant: Dávid Visontai
-  * Student: Dániel Godó
+  * Student: 
 * 04 - **Mesoscale Ocean Eddies along the U.S. West Coast**
   * Consultant: Dávid Visontai
-  * Student: Martin Gyügyi
+  * Student: 
 * 05 - **Predicting flowering dates based on meteorological information**
   * Consultant: Dávid Visontai
-  * Student: Bendegúz Borkovits
+  * Student: 
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: István Csabai
-  * Student: Erik Gebhard
+  * Student: 
 * 09 - **Twitter: Small world**
   * Consultant: Eszter Bokányi
-  * Student: Bence Dajka
+  * Student: 
 * 10 - **Twitter: Modeling**
   * Consultant: István Márkusz
-  * Student: Andrea Albert
+  * Student: 
