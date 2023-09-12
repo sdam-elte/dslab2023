@@ -8,7 +8,7 @@
   * Student: 
 * 03 - **Lightning Hotspots on Earth**
   * Consultant: Dávid Visontai
-  * Student: 
+  * Student: Barnabás Pórfy
 * 04 - **Mesoscale Ocean Eddies along the U.S. West Coast**
   * Consultant: Dávid Visontai
   * Student: 
@@ -18,9 +18,12 @@
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: István Csabai
   * Student: 
-* 09 - **Twitter: Small world**
-  * Consultant: Eszter Bokányi
+* 15 - ** Bio-NN: Milk somatic cell count **
+  * Consultant: Sára Nagy
   * Student: 
-* 10 - **Twitter: Modeling**
-  * Consultant: István Márkusz
+* 16 - ** Bio-DL: Bacterial colony size growth estimation **
+  * Consultant: Sára Nagy
+  * Student: 
+* 17 - ** Bio-DL: Dairy Cow Body Condition Prediction **
+  * Consultant: Sára Nagy
   * Student: 
