@@ -17,7 +17,7 @@
   * Student: 
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: István Csabai
-  * Student: 
+  * Student: Marcell Mészáros
 * 07 - **Signatures of mutational processes in human cancer** 
   * Consultant: Orsolya Pipek
   * Student: 
