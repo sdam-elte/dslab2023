@@ -5,26 +5,18 @@
 
 **The List of projects and applicants** is [here](ListOfProjects.md)
   
-**Location and time of meetings:** The meetings will be held in 5.128 seminar room and will start always at 13:00 PM on Thursday and end at 15:00. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
+**Location and time of meetings:** The meetings will be held in 5.128 seminar room and will start always at 13:00 PM on Tuesday and end the latest at 15:00. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
   
   The goal of the course is to instil practical skills needed for exploratory data analysis. With the acquired knowledge the student shall be able to perform independent research requiring handling of big data. To this end the students will have to explore a couple of longer running projects inspired data intensive problems drawn from multiple fields such as astronomy, genomics and social networks. The students will familiarize themselves with a wide skillset from various software engineering techniques to presenting their well distilled research in a manner that is accessible for the general public.  
   
 ## Timetable
 
-15/09/2022 -  (**Meeting**) Short introduction to the course and projects. (After this students will have to choose a project)
-<br>
-29/09/2022 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-Description_Plan.md) (8 minutes maximum fo each presentation)
-  
-06/10/2022 -  (only report submission) Progress report I.<br>
-13/10/2022 -  (**Meeting**) Presentation II.<br>
-20/10/2022 -  (only report submission) Progress report II.<br>
-27/10/2022 -  (**Meeting**) Presentation III.<br>
-03/11/2022 -  (only report submission) Progress report III.<br>
-
-17/11/2022 -  (**Meeting** and report submission deadline) [Final Presentations](#Groups-for-the-final-presentation). 
-
-
-08/12/2022 - (**Meeting**) [Presentation of the reproduced works](5-ReproducedReport.md)
+26/09/2023 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-Description_Plan.md) (8 minutes maximum fo each presentation) <br>
+10/10/2023 -  (**Meeting**and progress report submission) Presentation II.<br> 
+24/10/2023 -  (**Meeting** and progress report submission) Presentation III.<br>
+07/11/2023 -  (**Meeting** and progress report submission) Presentation IV.<br>
+28/11/2023 -  (**Meeting** and report submission deadline) [Final Presentations](#Groups-for-the-final-presentation). 
+05/12/2023 - (**Meeting**) [Presentation of the reproduced works](5-ReproducedReport.md)
    
  
 ## Grading
