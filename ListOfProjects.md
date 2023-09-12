@@ -18,12 +18,18 @@
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: István Csabai
   * Student: 
-* 15 - ** Bio-NN: Milk somatic cell count **
+* 07 - **Signatures of mutational processes in human cancer** 
+  * Consultant: Orsolya Pipek
+  * Student: 
+* 11 - **Wars on wikipedia** 
+  * Consultant: David Visontai
+  * Student: 
+* 15 - **Bio-NN: Milk somatic cell count**
   * Consultant: Sára Nagy
   * Student: 
-* 16 - ** Bio-DL: Bacterial colony size growth estimation **
+* 16 - **Bio-DL: Bacterial colony size growth estimation**
   * Consultant: Sára Nagy
   * Student: 
-* 17 - ** Bio-DL: Dairy Cow Body Condition Prediction **
+* 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
   * Consultant: Sára Nagy
   * Student: 
