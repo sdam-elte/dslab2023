@@ -12,10 +12,10 @@
 ## Timetable
 
 26/09/2023 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-Description_Plan.md) (8 minutes maximum fo each presentation) <br>
-10/10/2023 -  (**Meeting**and progress report submission) Presentation II.<br> 
+10/10/2023 -  (**Meeting** and progress report submission) Presentation II.<br> 
 24/10/2023 -  (**Meeting** and progress report submission) Presentation III.<br>
 07/11/2023 -  (**Meeting** and progress report submission) Presentation IV.<br>
-28/11/2023 -  (**Meeting** and report submission deadline) [Final Presentations](#Groups-for-the-final-presentation). 
+28/11/2023 -  (**Meeting** and report submission deadline) [Final Presentations](#Groups-for-the-final-presentation). <br>
 05/12/2023 - (**Meeting**) [Presentation of the reproduced works](5-ReproducedReport.md)
    
  
