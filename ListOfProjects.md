@@ -21,6 +21,9 @@
 * 07 - **Signatures of mutational processes in human cancer** 
   * Consultant: Orsolya Pipek
   * Student: 
+* 09 - **Social media small world or words** 
+  * Consultant: David Visontai
+  * Student: Barnabás Benedek
 * 11 - **Wars on wikipedia** 
   * Consultant: David Visontai
   * Student: Zoltán Kovács
