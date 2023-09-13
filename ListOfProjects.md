@@ -9,12 +9,6 @@
 * 03 - **Lightning Hotspots on Earth**
   * Consultant: Dávid Visontai
   * Student: Barnabás Pórfy
-* 04 - **Mesoscale Ocean Eddies along the U.S. West Coast**
-  * Consultant: Dávid Visontai
-  * Student: 
-* 05 - **Predicting flowering dates based on meteorological information**
-  * Consultant: Dávid Visontai
-  * Student: 
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: István Csabai
   * Student: Marcell Mészáros
