@@ -23,7 +23,7 @@
   * Student: 
 * 11 - **Wars on wikipedia** 
   * Consultant: David Visontai
-  * Student: 
+  * Student: Zoltán Kovács
 * 15 - **Bio-NN: Milk somatic cell count**
   * Consultant: Sára Nagy
   * Student: 
