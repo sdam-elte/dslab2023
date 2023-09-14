@@ -1,7 +1,7 @@
 ## List of projects, consultants and students
 
 * 01 - **UMAP**
-  * Consultant: István Csabai
+  * Consultant: Mirkó Mocskonyi, István Csabai
   * Student: Szende Sándor
 * 02 - **Photometric redshift estimation**
   * Consultant: István Csabai
@@ -10,7 +10,7 @@
   * Consultant: Dávid Visontai
   * Student: Barnabás Pórfy
 * 06 - **Cosmic Microwave Background power spectrum** 
-  * Consultant: István Csabai
+  * Consultant: Balázs Pál, István Csabai
   * Student: Marcell Mészáros
 * 07 - **Signatures of mutational processes in human cancer** 
   * Consultant: Orsolya Pipek
