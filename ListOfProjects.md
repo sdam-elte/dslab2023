@@ -2,7 +2,7 @@
 
 * 01 - **UMAP**
   * Consultant: István Csabai
-  * Student:  
+  * Student: Szende Sándor
 * 02 - **Photometric redshift estimation**
   * Consultant: István Csabai
   * Student: 
