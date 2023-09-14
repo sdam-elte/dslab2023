@@ -26,7 +26,7 @@
   * Student: 
 * 16 - **Bio-DL: Bacterial colony size growth estimation**
   * Consultant: Sára Nagy
-  * Student: 
+  * Student: Gergő Mamuzsics 
 * 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
   * Consultant: Sára Nagy
   * Student: 
