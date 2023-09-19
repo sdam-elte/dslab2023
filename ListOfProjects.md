@@ -29,4 +29,4 @@
   * Student: Gergő Mamuzsics 
 * 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
   * Consultant: Sára Nagy
-  * Student: Bence Ónody
+  * Student: Bence Ónódy
