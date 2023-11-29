@@ -22,8 +22,26 @@ Your task is to **evaluate** how complicated or easy it is to use someone else's
 
 These presentations should be approximately **8 minutes** long.
 
-
 ### The new list of assignments:
 
+## List of projects, consultants and students
 
+* 01 - **UMAP**
+  * Consultant: Szende Sándor, Mirkó Mocskonyi, István Csabai
+  * Student: 
+* 03 - **Lightning Hotspots on Earth**
+  * Consultant: Barnabás Pórfy, Dávid Visontai
+  * Student: 
+* 06 - **Cosmic Microwave Background power spectrum** 
+  * Consultant: Marcell Mészáros, Balázs Pál, István Csabai
+  * Student: 
+* 09 - **Social media small world or words** 
+  * Consultant: Barnabás Benedek, David Visontai
+  * Student: 
+* 11 - **Wars on wikipedia** 
+  * Consultant: Zoltán Kovács, David Visontai
+  * Student: 
+* 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
+  * Consultant: Bence Ónódy, Sára Nagy
+  * Student: 
 
