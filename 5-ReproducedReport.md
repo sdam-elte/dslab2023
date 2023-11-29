@@ -28,20 +28,20 @@ These presentations should be approximately **8 minutes** long.
 
 * 01 - **UMAP**
   * Consultant: Szende Sándor, Mirkó Mocskonyi, István Csabai
-  * Student: 
+  * Student: Barnabás Benedek
 * 03 - **Lightning Hotspots on Earth**
   * Consultant: Barnabás Pórfy, Dávid Visontai
-  * Student: 
+  * Student: Marcell Mészáros
 * 06 - **Cosmic Microwave Background power spectrum** 
   * Consultant: Marcell Mészáros, Balázs Pál, István Csabai
-  * Student: 
+  * Student: Bence Ónódy
 * 09 - **Social media small world or words** 
   * Consultant: Barnabás Benedek, David Visontai
-  * Student: 
+  * Student: Barnabás Pórfy
 * 11 - **Wars on wikipedia** 
   * Consultant: Zoltán Kovács, David Visontai
-  * Student: 
+  * Student: Szende Sándor
 * 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
   * Consultant: Bence Ónódy, Sára Nagy
-  * Student: 
+  * Student: Zoltán Kovács
 
